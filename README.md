@@ -5,5 +5,5 @@
 <h3>💬 Ask me about anything but <i>not about my future plans :(</i> </h3> 
 <h2> Skills :</h2> 
 <b> C/C++, HTML5, CSS, JavaScript, Node.js, PHP <b>
-
+<br> <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-Easy&theme=dark" />
